@@ -6,4 +6,5 @@ As of Friday the 1st of March 2024 the following algorithms have been completed:
 * Bayesian Classifiers  
 * Support Vector Machines  
 * K-NN  
-* K Means Clustering
+* K Means Clustering  
+The machine learning references contains the harvard referencing for help used in the notebooks
