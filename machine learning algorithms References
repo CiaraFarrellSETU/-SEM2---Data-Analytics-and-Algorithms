@@ -1,7 +1,7 @@
 While all the machine learning colabs contain links to the various websites used to help their creation this file contains the references formatted in the harvard referencing style.  
 Linear Regression:   
-*VanderPlas, K.(2016). In Depth: Linear Regression. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available:https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html  
-*Github, (2018), Machine_Learning_A-Z/Part 2 - Regression/Section 4 - Simple Linear Regression, [online], available:https://github.com/srafay/Machine_Learning_A-Z/blob/master/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/simple_linear_regression.py   
+* VanderPlas, K.(2016). In Depth: Linear Regression. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available:https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html  
+* Github, (2018), Machine_Learning_A-Z/Part 2 - Regression/Section 4 - Simple Linear Regression, [online], available:https://github.com/srafay/Machine_Learning_A-Z/blob/master/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/simple_linear_regression.py   
 
 Decision Trees  
 * VanderPlas, K.(2016). In-Depth: Decision Trees and Random Forests. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available:https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html  
@@ -12,9 +12,12 @@ Decision Trees
 Bayesian Classifiers  
 * VanderPlas, K.(2016). In-Depth: Naive Bayes Classification. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available: https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb#scrollTo=DF16F4vx3kGq  
 * Github (2019) Machine-Learning/Naive Bayes Implementation with Laplace correction .ipynb, [online] available:https://github.com/MANRAJSINGH007/Machine-Learning/blob/master/Naive%20Bayes%20Implementation%20with%20Laplace%20correction%20.ipynb   
-*Scikit-learn (2024) sklearn.datasets.load_digits, [online],available:https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html#sklearn.datasets.load_digits  
+* Scikit-learn (2024) sklearn.datasets.load_digits, [online],available:https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html#sklearn.datasets.load_digits  
 
 Support Vector Machines  
-*
+* VanderPlas, K.(2016). In-Depth: Support Vector Machines. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available: https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html  
+* Github (2018), 100-Days-Of-ML-Code/Code/Day 13 SVM.md [online], available: https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md  
+*Kaggle (2020), SVM Classifier Tutorial [online], available: https://www.kaggle.com/code/prashant111/svm-classifier-tutorial  
+
 K-NN  
 K Means Clustering
