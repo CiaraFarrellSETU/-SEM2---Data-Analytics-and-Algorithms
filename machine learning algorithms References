@@ -3,6 +3,10 @@ Linear Regression:
 * VanderPlas, K.(2016). In Depth: Linear Regression. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available:https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html  
 * Github, (2018), Machine_Learning_A-Z/Part 2 - Regression/Section 4 - Simple Linear Regression, [online], available:https://github.com/srafay/Machine_Learning_A-Z/blob/master/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/simple_linear_regression.py  
 Decision Trees  
+* VanderPlas, K.(2016). In-Depth: Decision Trees and Random Forests. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available:https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html  
+* Github. (2018),ML-Notebook/11. DesicionTree Implementation/Into_Decision_Tree[4148].ipynb , [online], available: https://github.com/the-mrinal/ML-Notebook/blob/master/11.%20DesicionTree%20Implementation/Into_Decision_Tree%5B4148%5D.ipynb  
+* Google for developers. Creating a decision tree, [online], available:https://developers.google.com/machine-learning/decision-forests/practice  
+* Github. (2015). Breast cancer.csv, [online], available: https://github.com/selva86/datasets/blob/master/BreastCancer.csv  
 Bayesian Classifiers  
 Support Vector Machines  
 K-NN  
