@@ -1,5 +1,7 @@
 While all the machine learning colabs contain links to the various websites used to help their creation this file contains the references formatted in the harvard referencing style.  
-Linear Regression  
+Linear Regression:  
+* VanderPlas, K.(2016). In Depth: Linear Regression. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available:https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html  
+* Github, (2018), Machine_Learning_A-Z/Part 2 - Regression/Section 4 - Simple Linear Regression, [online], available:https://github.com/srafay/Machine_Learning_A-Z/blob/master/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/simple_linear_regression.py  
 Decision Trees  
 Bayesian Classifiers  
 Support Vector Machines  
