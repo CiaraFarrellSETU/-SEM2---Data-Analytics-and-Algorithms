@@ -20,4 +20,10 @@ Support Vector Machines
 * Kaggle (2020), SVM Classifier Tutorial [online], available: https://www.kaggle.com/code/prashant111/svm-classifier-tutorial  
 
 K-NN  
-K Means Clustering
+* Scikit-learn (2024) sklearn.metrics.classification_report, [online],available: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html  
+* W3 schools (2024), Machine Learning - K-nearest neighbors (KNN), [online],available:https://www.w3schools.com/python/python_ml_knn.asp  
+
+K Means Clustering  
+* VanderPlas, K.(2016). In-Depth:k-Means Clustering. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available:https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html  
+* Analytics Vidhya (2021).Elbow Method for Finding the Optimal Number of Clusters in K-Means,[online] available: https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/  
+* Scikit-learn (2024), Selecting the number of clusters with silhouette analysis on KMeans clustering,[online] available: https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html  
