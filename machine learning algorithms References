@@ -1,8 +1,7 @@
 While all the machine learning colabs contain links to the various websites used to help their creation this file contains the references formatted in the harvard referencing style.  
 Linear Regression:   
-
-* VanderPlas, K.(2016). In Depth: Linear Regression. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available:https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html  
-* Github, (2018), Machine_Learning_A-Z/Part 2 - Regression/Section 4 - Simple Linear Regression, [online], available:https://github.com/srafay/Machine_Learning_A-Z/blob/master/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/simple_linear_regression.py   
+*VanderPlas, K.(2016). In Depth: Linear Regression. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available:https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html  
+*Github, (2018), Machine_Learning_A-Z/Part 2 - Regression/Section 4 - Simple Linear Regression, [online], available:https://github.com/srafay/Machine_Learning_A-Z/blob/master/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/simple_linear_regression.py   
 
 Decision Trees  
 * VanderPlas, K.(2016). In-Depth: Decision Trees and Random Forests. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available:https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html  
@@ -16,5 +15,6 @@ Bayesian Classifiers
 *Scikit-learn (2024) sklearn.datasets.load_digits, [online],available:https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html#sklearn.datasets.load_digits  
 
 Support Vector Machines  
+*
 K-NN  
 K Means Clustering
