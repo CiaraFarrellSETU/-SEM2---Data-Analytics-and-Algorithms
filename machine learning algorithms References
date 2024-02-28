@@ -17,7 +17,7 @@ Bayesian Classifiers
 Support Vector Machines  
 * VanderPlas, K.(2016). In-Depth: Support Vector Machines. In: Python Data Science Handbook. O'Reilly Media, Inc.[online] available: https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html  
 * Github (2018), 100-Days-Of-ML-Code/Code/Day 13 SVM.md [online], available: https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md  
-*Kaggle (2020), SVM Classifier Tutorial [online], available: https://www.kaggle.com/code/prashant111/svm-classifier-tutorial  
+* Kaggle (2020), SVM Classifier Tutorial [online], available: https://www.kaggle.com/code/prashant111/svm-classifier-tutorial  
 
 K-NN  
 K Means Clustering
