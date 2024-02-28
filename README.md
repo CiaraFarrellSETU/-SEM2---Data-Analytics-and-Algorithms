@@ -7,4 +7,4 @@ As of Friday the 1st of March 2024 the following algorithms have been completed:
 * Support Vector Machines  
 * K-NN  
 * K Means Clustering  
-The machine learning references contains the harvard referencing for help used in the notebooks
+The machine learning references contains the referencing for help used in the notebooks, the notebooks only contain links
