@@ -8,4 +8,11 @@ As of Friday the 1st of March 2024 the following algorithms have been completed:
 * K-NN  
 * K Means Clustering
     
+
+Artifical Neural Networks   
+* Gradient descent for linear regression
+* Logistic regression
+* CNN
+
+  
 The machine learning references contains the referencing for help used in the notebooks, the notebooks only contain links
