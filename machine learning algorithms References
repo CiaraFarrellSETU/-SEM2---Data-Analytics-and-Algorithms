@@ -37,3 +37,8 @@ Logistic regression
 * Kaggle, Cat and Dog image dataset [online], available: https://www.kaggle.com/datasets/erkamk/cat-and-dog-images-dataset?select=Dog+and+Cat+.png  
 * Github (2020), comp551-notebooks/ LogisticRegression.ipynb [online], available:https://github.com/mravanba/comp551-notebooks/blob/master/LogisticRegression.ipynb  
 * Github (2020), dair-ai/notebooks/_notebooks/2020-03-18-pytorch_logistic_regression.ipynb [online], available:https://github.com/dair-ai/notebooks/blob/master/_notebooks/2020-03-18-pytorch_logistic_regression.ipynb
+
+CNN  
+* Github (2020) trekhleb/machine-learning-experiments/experiments/digits_recognition_cnn/digits_recognition_cnn.ipynb [online], available:https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/digits_recognition_cnn/digits_recognition_cnn.ipynb  
+* Keras, Fashion MNIST dataset, an alternative to MNIST [online], available: https://keras.io/api/datasets/fashion_mnist/  
+* Kaggle A simple cnn model beginner guide [online], available: https://www.kaggle.com/code/pavansanagapati/a-simple-cnn-model-beginner-guide  
