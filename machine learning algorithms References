@@ -28,3 +28,12 @@ K Means Clustering
 * Analytics Vidhya (2021).Elbow Method for Finding the Optimal Number of Clusters in K-Means,[online] available: https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/  
 * Scikit-learn (2024), Selecting the number of clusters with silhouette analysis on KMeans clustering,[online] available: https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html  
 
+Gradient descent for linear regression  
+* Github (2020), comp551-notebooks/ GradientDescent.ipynb [online], available:https://github.com/mravanba/comp551-notebooks/blob/master/GradientDescent.ipynb  
+* Medium (2018), menon.a, Linear regression using gradient descent published in Towards data science,[online] available: https://towardsdatascience.com/linear-regression-using-gradient-descent-97a6c8700931  
+* peterroelants.github.io , 2015, How to implement a neural network (1/5) - gradient descent [online], available: https://peterroelants.github.io/posts/neural-network-implementation-part01/  
+
+Logistic regression  
+* Kaggle, Cat and Dog image dataset [online], available: https://www.kaggle.com/datasets/erkamk/cat-and-dog-images-dataset?select=Dog+and+Cat+.png  
+* Github (2020), comp551-notebooks/ LogisticRegression.ipynb [online], available:https://github.com/mravanba/comp551-notebooks/blob/master/LogisticRegression.ipynb  
+* Github (2020), dair-ai/notebooks/_notebooks/2020-03-18-pytorch_logistic_regression.ipynb [online], available:https://github.com/dair-ai/notebooks/blob/master/_notebooks/2020-03-18-pytorch_logistic_regression.ipynb
