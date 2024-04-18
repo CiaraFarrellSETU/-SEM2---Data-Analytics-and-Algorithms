@@ -13,6 +13,7 @@ Artifical Neural Networks
 * Gradient descent for linear regression
 * Logistic regression
 * CNN
+* RNN & LSTM
 
   
 The machine learning references contains the referencing for help used in the notebooks, the notebooks only contain links
