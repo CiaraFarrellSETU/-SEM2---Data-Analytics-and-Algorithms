@@ -42,3 +42,11 @@ CNN
 * Github (2020) trekhleb/machine-learning-experiments/experiments/digits_recognition_cnn/digits_recognition_cnn.ipynb [online], available:https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/digits_recognition_cnn/digits_recognition_cnn.ipynb  
 * Keras, Fashion MNIST dataset, an alternative to MNIST [online], available: https://keras.io/api/datasets/fashion_mnist/  
 * Kaggle A simple cnn model beginner guide [online], available: https://www.kaggle.com/code/pavansanagapati/a-simple-cnn-model-beginner-guide  
+
+RNN & LSTM  
+* Tensorflow (2023) Model Conversion [online], available: https://www.tensorflow.org/js/guide/conversion  
+* Tensorflow (2024) Save and load models [online], available: https://www.tensorflow.org/tutorials/keras/save_and_load  
+* Geeksforgeeks (2022) Save and load models in Tensdorflow [online], available: https://www.geeksforgeeks.org/save-and-load-models-in-tensorflow/  
+* Github (2020) Numbers summation using RNN LSTM [online], available https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/numbers_summation_rnn/numbers_summation_rnn.ipynb  
+* Medium (2022) How does batch size impact your model learning [online], available  https://medium.com/geekculture/how-does-batch-size-impact-your-model-learning-2dd34d9fb1fa  
+
